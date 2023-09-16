@@ -21,8 +21,7 @@
 title: Trabalhos de Visualização Científca
 email: fernando.mesquita@alu.ufc.br
 description: >- # this means to ignore newlines until "baseurl:"
-   Esse repositório foi criado para disponibilização dos trabalhos realizados
-  na disciplina de Visualização Científica 2023.2.
+  Esse repositório foi criado para disponibilização dos trabalhos realizados na disciplina de Visualização Científica 2023.2.
 baseurl: "/datavis" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
